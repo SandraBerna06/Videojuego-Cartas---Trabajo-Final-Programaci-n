@@ -46,7 +46,7 @@ Para poder ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/Videojuego-Cartas---Trabajo-Final-Programaci-n.git](https://github.com/TU_USUARIO/Videojuego-Cartas---Trabajo-Final-Programaci-n.git)
+    git clone [https://github.com/SandraBerna06/Videojuego-Cartas---Trabajo-Final-Programaci-n.git)
     ```
 2.  **Configura la Base de Datos:**
     * Asegúrate de tener instalado un servidor MySQL (por ejemplo, a través de XAMPP, WAMP o MySQL Server).
